@@ -1,0 +1,5 @@
+*.d
+*.cc
+Makefile
+mycoolc
+lexer
